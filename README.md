@@ -1,5 +1,5 @@
 # RepositorioPersonal
-# **[Matías Collaguazo]**
+# **Matías Collaguazo**
 
 **Desarrollador Full Stack** con ansias por crear aplicaciones web innovadoras. Me encanta explorar nuevas tecnologías y contribuir a proyectos open source.
 
@@ -20,7 +20,7 @@
 * **DevOps:** Docker, Kubernetes
 
 ### **Contacto**
-* **Correo:** [tu_correo@ejemplo.com]
+* **Correo:** [mcollagu@espol.edu.ec]
 * **LinkedIn:** [enlace_a_tu_perfil]
 * **Portfolio:** [enlace_a_tu_portafolio]
 
