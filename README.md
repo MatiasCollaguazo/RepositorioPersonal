@@ -5,26 +5,22 @@
 
 ### **Proyectos Destacados**
 
-* **[Proyecto 1]** - Una aplicación web para [describir funcionalidad].
-  * **Tecnologías:** React, Node.js, MongoDB
-  * **Enlace:** [Enlace al repositorio]
-  * [Imagen del proyecto]
+* **[Proyecto 1]** - Una aplicación de escritorio para realizar una comparación de velocidad entre el algoritmo de búsqueda binaria y búsqueda lineal.
+  * **Tecnologías:** Java.
+  * **Enlace:** https://github.com/MatiasCollaguazo/BinarySearchComparison
+
 * **[Proyecto 2]** - ...
+
+
+
 
 ### **Habilidades Técnicas**
 
-* **Frontend:** React, Angular, Vue.js, HTML, CSS
-* **Backend:** Node.js, Python (Django, Flask), Ruby on Rails
-* **Bases de datos:** MongoDB, PostgreSQL, MySQL
-* **Cloud:** AWS, GCP
-* **DevOps:** Docker, Kubernetes
+* **Frontend:** HTML, CSS.
+* **Backend:** Python, NodeJS.
+* **Bases de datos:** MySQL.
 
 ### **Contacto**
 * **Correo:** [correo personal]
 * **LinkedIn:** [enlace_a_tu_perfil]
 
-[Badge de GitHub] [Badge de LinkedIn]
-
-### **Artículos y Tutoriales**
-* [Enlace a un artículo que hayas escrito]
-* [Enlace a un tutorial en tu blog]
