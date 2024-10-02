@@ -1,2 +1,9 @@
 # BinarySearchComparison
- This repository aims to compare the binary search algorithm and the linear search algorithm over a vector in Java. For study purposes
+ Este repositorio tiene como objetivo comparar el algoritmo de búsqueda binaria y el algoritmo de búsqueda lineal sobre un vector en Java. Con fines de estudio
+# Tecnologías Utilizadas
+
+## Lenguajes de Programación
+- **Java:** Desarrollo de aplicaciones de escritorio (JavaFX), patrones de diseño
+
+## Frameworks
+- **NetBeans:** Desarrollo de la aplicación
