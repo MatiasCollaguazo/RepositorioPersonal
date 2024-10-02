@@ -20,9 +20,8 @@
 * **DevOps:** Docker, Kubernetes
 
 ### **Contacto**
-* **Correo:** [mcollagu@espol.edu.ec]
+* **Correo:** [correo personal]
 * **LinkedIn:** [enlace_a_tu_perfil]
-* **Portfolio:** [enlace_a_tu_portafolio]
 
 [Badge de GitHub] [Badge de LinkedIn]
 
