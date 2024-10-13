@@ -35,16 +35,15 @@
 
 ### **Certificaciones y Cursos** 🎓
 
-* **Certificación en Python para Ciencia de Datos** (OpenEDG | Open Education and Development Group - 2021)
+* **Certificación en Python para Ciencia de Datos** (OpenEDG || Open Education and Development Group - 2021)
 * **Certificación en Cisco CyberSecurity** (AITEC - 2021)
 
 ### **Contacto** 📬
 
-* **Correo:** [matiascolla07@hotmail.com](mailto:matiascolla07@hotmail.com)  | [mcollagu@espol.edu.ec](mailto:mcollagu@espol.edu.ec)  
+* **Correo:** [matiascolla07@hotmail.com](mailto:matiascolla07@hotmail.com)  || [mcollagu@espol.edu.ec](mailto:mcollagu@espol.edu.ec)  
 
 <a href="https://www.linkedin.com/in/matias-collaguazo-55b022257/"><img src="https://skillicons.dev/icons?i=linkedin" width="30px"/></a>
 <a href="https://github.com/MatiasCollaguazo"><img src="https://skillicons.dev/icons?i=github" width="30px"/></a>
 
-<br></details>
 <!-- footer --!>
 <img src="https://imgur.com/rilHVxA.png"/>
