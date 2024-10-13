@@ -1,64 +1,50 @@
-# Repositorio Personal
-# **Matías Collaguazo**
+# **Matías Collaguazo** 👨‍💻
 
-**Desarrollador Junior** con pasión por la creación de aplicaciones web innovadoras y el aprendizaje continuo de nuevas tecnologías. Me encanta colaborar en proyectos open source y siempre busco mejorar mis habilidades en programación y desarrollo web.
+**Desarrollador Junior** con pasión por la creación de aplicaciones web innovadoras y el aprendizaje continuo de nuevas tecnologías. Me encanta colaborar en proyectos open source y siempre busco mejorar mis habilidades en programación y desarrollo web. 🌱
 
-### **Proyectos Destacados**
+### **Proyectos Destacados** 🚀
 
-* **[Proyecto 1: Binary Search Comparison]**  
+* **Proyecto 1: Comparador de búsqueda binaria y búsqueda lineal** 🔍  
   Una aplicación de escritorio que permite comparar la velocidad entre el algoritmo de búsqueda binaria y la búsqueda lineal de manera visual y gráfica.  
-  * **Tecnologías utilizadas:** Java.  
+  * **Tecnologías utilizadas:**  
+  [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)  
   * **Enlace:** [GitHub - BinarySearchComparison](https://github.com/MatiasCollaguazo/BinarySearchComparison)  
   * **Descripción adicional:** El proyecto permite a los usuarios observar el rendimiento en tiempo real de ambos algoritmos mediante gráficos interactivos.
 
-* **[Proyecto 2: Sistema de Gestión de Inventario]**  
+* **Proyecto 2: Juego de Tablero de Fichas Domino** 🎲  
   Una aplicación web para optimizar el inventario en almacenes. Permite agregar, actualizar y eliminar productos, y ver reportes de stock.  
-  * **Tecnologías utilizadas:** Java, Spring Boot, MySQL.  
-  * **Enlace:** [GitHub - InventorySystem](https://github.com/MatiasCollaguazo/InventorySystem)  
-  * **Descripción adicional:** Mejora la eficiencia en la gestión de inventarios y reduce errores humanos en el proceso de administración.
+  * **Tecnologías utilizadas:**  
+  [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)  
+  * **Enlace:** [GitHub - FichasDomino](https://github.com/PaulPer37/proyecto2p)  
+  * **Descripción adicional:** El juego simula una partida de dominó, permitiendo a los jugadores colocar fichas y calcular los puntajes.
 
-* **[Proyecto 3: Conversión Automática de Datos Topográficos]**  
+* **Proyecto 3: Conversión Automática de Datos Topográficos / Proyecto Privado** 📊  
   Una herramienta que automatiza la conversión de datos topográficos en archivos Excel para su análisis y presentación.  
-  * **Tecnologías utilizadas:** Python.  
-  * **Enlace:** [GitHub - DataConversionTool](https://github.com/MatiasCollaguazo/DataConversionTool)  
+  * **Tecnologías utilizadas:**  
+  [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  
   * **Descripción adicional:** Optimiza el tiempo de los ingenieros topógrafos en el proceso de conversión de datos, reduciendo el tiempo de trabajo en un 50%.
 
-### **Habilidades Técnicas**
+### **Habilidades Técnicas** 💻
 
-* **Frontend:**  
-  - HTML, CSS, JavaScript.  
-  - Frameworks: React, Vue.js.
-
-* **Backend:**  
-  - Python (Django, Flask), Node.js, Java (Spring Boot).  
-  - APIs RESTful y servicios web.
-
-* **Bases de Datos:**  
-  - MySQL, PostgreSQL.  
-  - Diseño y optimización de bases de datos.
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,mysql)](https://skillicons.dev)  
 * **Control de Versiones:**  
-  - Git, GitHub, GitLab.
+  - [![My Skills](https://skillicons.dev/icons?i=github,git,gitlab)](https://skillicons.dev)
 
 * **Otros Conocimientos:**  
-  - Metodologías ágiles: Scrum, Kanban.  
-  - Desarrollo de pruebas unitarias y automatizadas.  
-  - Herramientas de CI/CD: Jenkins, Travis CI.
+  - Desarrollo de pruebas unitarias y automatizadas. 🧪
 
-### **Certificaciones y Cursos**
+### **Certificaciones y Cursos** 🎓
 
-* **Certificación en Desarrollo Web Full Stack** (Udemy - 2023)  
-* **Certificación en Python para Ciencia de Datos** (Coursera - 2022)  
-* **Certificación en Cisco CyberSecurity** (2022)
+* **Certificación en Python para Ciencia de Datos** (OpenEDG | Open Education and Development Group - 2021)
+* **Certificación en Cisco CyberSecurity** (AITEC - 2021)
 
-### **Contacto**
+### **Contacto** 📬
 
-* **Correo:** [matiascolla07@hotmail.com](mailto:matiascolla07@hotmail.com)  
-* **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/matias-collaguazo-55b022257/)  
-* **GitHub:** [Mi Repositorio en GitHub](https://github.com/MatiasCollaguazo)  
-* **Instagram:** [Instagram Profesional](https://www.instagram.com/matiascollaguazo/) (opcional, si deseas incluirlo)
+* **Correo:** [matiascolla07@hotmail.com](mailto:matiascolla07@hotmail.com)  | [mcollagu@espol.edu.ec](mailto:mcollagu@espol.edu.ec)  
 
-### **Sobre mí**
+<a href="https://www.linkedin.com/in/matias-collaguazo-55b022257/"><img src="https://skillicons.dev/icons?i=linkedin" width="30px"/></a>
+<a href="https://github.com/MatiasCollaguazo"><img src="https://skillicons.dev/icons?i=github" width="30px"/></a>
 
-Soy un apasionado por la programación y el desarrollo de soluciones web que impacten positivamente a las empresas y usuarios. Mi experiencia incluye tanto el desarrollo frontend como backend, y tengo una gran capacidad para adaptarme a nuevos lenguajes y tecnologías. Actualmente, me encuentro en la búsqueda de nuevas oportunidades para aplicar mis habilidades en proyectos interesantes.
-
+<br></details>
+<!-- footer --!>
+<img src="https://imgur.com/rilHVxA.png"/>
