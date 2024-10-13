@@ -1,4 +1,4 @@
-# **Matías Collaguazo** 👨‍💻
+# **Matías Collaguazo**
 
 ### **Sobre mí** 👨‍💻
 **Desarrollador Junior** con pasión por la creación de aplicaciones web innovadoras y el aprendizaje continuo de nuevas tecnologías. Soy estudiante de la carrera de Computación en la ESPOL. Tengo una gran pasión por el desarrollo web y la programación. Me encanta enfrentarme a retos técnicos y aprender continuamente sobre nuevas tecnologías. 🌱
