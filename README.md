@@ -1,6 +1,7 @@
 # **Matías Collaguazo** 👨‍💻
 
-**Desarrollador Junior** con pasión por la creación de aplicaciones web innovadoras y el aprendizaje continuo de nuevas tecnologías. Me encanta colaborar en proyectos open source y siempre busco mejorar mis habilidades en programación y desarrollo web. 🌱
+* **Sobre mí** 👨‍💻
+**Desarrollador Junior** con pasión por la creación de aplicaciones web innovadoras y el aprendizaje continuo de nuevas tecnologías. Soy estudiante de la carrera de Computación en la ESPOL. Tengo una gran pasión por el desarrollo web y la programación. Me encanta enfrentarme a retos técnicos y aprender continuamente sobre nuevas tecnologías. 🌱
 
 ### **Proyectos Destacados** 🚀
 
@@ -50,7 +51,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=matiascollaguazo&theme=outrun&show_icons=true&hide_border=false&count_private=true" alt="matiascollaguazo's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiascollaguazo&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="matiascollaguazo's GitHub Stats" width=417/>
 </div>
-
 
 
 
