@@ -7,27 +7,27 @@
 
 ### **Proyectos Destacados** 🚀
 
-* **Proyecto 1: Comparador de búsqueda binaria y búsqueda lineal** 🔍  
+* **Comparador de búsqueda binaria y búsqueda lineal** 🔍  
   Una aplicación de escritorio que permite comparar la velocidad entre el algoritmo de búsqueda binaria y la búsqueda lineal de manera visual y gráfica.  
   * **Tecnologías utilizadas:**  
     [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)  
   * **Enlace:** [GitHub - BinarySearchComparison](https://github.com/MatiasCollaguazo/BinarySearchComparison)  
   * **Descripción adicional:** El proyecto permite a los usuarios observar el rendimiento en tiempo real de ambos algoritmos mediante gráficos interactivos.
 
-* **Proyecto 2: Juego de Tablero de Fichas Domino** 🎲  
+* **Juego de Tablero de Fichas Domino** 🎲  
   Una aplicación web para optimizar el inventario en almacenes. Permite agregar, actualizar y eliminar productos, y ver reportes de stock.  
   * **Tecnologías utilizadas:**  
     [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)  
   * **Enlace:** [GitHub - FichasDomino](https://github.com/PaulPer37/proyecto2p)  
   * **Descripción adicional:** El juego simula una partida de dominó, permitiendo a los jugadores colocar fichas y calcular los puntajes.
 
-* **Proyecto 3: Conversión Automática de Datos Topográficos** 📊  
+* **Conversión Automática de Datos Topográficos** 📊  
   Una herramienta que automatiza la conversión de datos topográficos en archivos Excel para su análisis y presentación.  
   * **Tecnologías utilizadas:**  
     [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  
   * **Descripción adicional:** Optimiza el tiempo de los ingenieros topógrafos en el proceso de conversión de datos, reduciendo el tiempo de trabajo en un 50%.
 
-* **Proyecto 4: Sistema de Agendación de Contactos (ProyectoED)** 📒  
+* **Sistema de Agendación de Contactos (ProyectoED)** 📒  
   Una aplicación que permite gestionar contactos utilizando estructuras de datos personalizadas. Incluye funcionalidades como añadir, eliminar, y buscar contactos, implementadas con `ArrayList` y `LinkedList` diseñados desde cero.  
   * **Tecnologías utilizadas:**  
     [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)  
